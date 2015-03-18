@@ -1,0 +1,48 @@
+html, body, figure, h1, li, ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  text-align: inherit;
+}
+
+figure {
+  margin: auto;
+}
+
+ul {
+  width: 25px;
+  float:left;
+  list-style-type: none;
+}
+
+li {
+  height: 25px;
+  width: 25px;
+}
+
+li.apple {
+  background-color: red;
+}
+
+li.snake {
+  background-color: green;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+.snake-header {
+  font-size: 60px;
+  margin: 10px 0 10px 0;
+}
+
+.snake-frame {
+  height: 500px;
+  width: 500px;
+  border: 10px solid black;
+  text-align: center;
+}
