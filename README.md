@@ -10,3 +10,7 @@ This is remake of the Nokia classic Snake game. Begin playing with the arrows or
 ## To-do
  * Add option for turning wall wrapping on/off
  * Progressively increase speed after each meal
+ * Add GitHub link for version on portfolio page
+ * Add Back link to Welcome page
+ * Allow user to initialize snake with keypad press
+ * Allow user to start game over again
